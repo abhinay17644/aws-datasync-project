@@ -78,6 +78,7 @@ S3 to EFS migration
 EC2 and EBS CLI operations
 IAM Roles
 EFS mounting and verification
+
 Project Status
 
 Completed hands-on AWS learning project covering DataSync, AWS storage, EC2, EBS, IAM and AWS CLI.
